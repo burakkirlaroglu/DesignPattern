@@ -12,10 +12,7 @@ public class Muzik {
 
     @Override
     public String toString() {
-        return "Muzik{" +
-                "adi='" + adi + '\'' +
-                ", ses='" + ses + '\'' +
-                '}';
+        return adi;
     }
 
     public String getAdi() {
