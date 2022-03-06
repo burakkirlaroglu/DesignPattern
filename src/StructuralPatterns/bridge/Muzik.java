@@ -12,7 +12,7 @@ public class Muzik {
 
     @Override
     public String toString() {
-        return adi;
+        return adi + " " + ses;
     }
 
     public String getAdi() {
